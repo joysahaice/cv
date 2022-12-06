@@ -1,0 +1,46 @@
+body
+{
+    background-color: #dadada;
+    display: flex;
+}
+.container 
+{
+    width: 850px;
+    margin: auto;
+    display: flex;
+}
+
+.left-side 
+{
+    width: 300px;
+    background-color:rgb(216, 76, 146);
+}
+
+.left-portion
+{
+    padding: 10px;
+}
+
+.right-side 
+{
+    background-color: rgb(104, 201, 240);
+    padding: 20px;
+}
+ 
+.text
+{
+    text-transform: capitalize;
+    color: black;
+    text-justify: auto;
+}
+
+ul 
+{
+    list-style-type: circle;
+}
+
+p 
+{
+    margin: 0;
+    padding: 0;
+}
